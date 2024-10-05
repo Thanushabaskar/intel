@@ -171,3 +171,5 @@ Real-Time Adaptability: By continuously analyzing traffic conditions and adjusti
 Scalability: The architecture can be extended to include more cameras or integrate additional functionalities, such as pedestrian detection or emergency vehicle prioritization.
 Demonstration of AI Capabilities: This project serves as a demonstration of how AI and machine learning can be applied in real-world scenarios to solve complex urban challenges, such as traffic congestion.
 
+
+
